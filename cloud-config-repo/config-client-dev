@@ -1,5 +1,0 @@
-foo = foo version 3
-
-mysqldb.datasource.username=dev_username
-
-mysqldb.datasource.password=dev_pwd
